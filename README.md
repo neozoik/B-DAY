@@ -9,7 +9,6 @@ See the [Quickstart](http://docs.init.ai/docs/quickstart) for details on setting
 ```bash
 $ npm i
 ```
-
 ### Usage
 #### Start the Dev Server
 ```bash
