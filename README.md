@@ -1,4 +1,4 @@
-# B-DAY
+# HAPPY B-DAY
 19 april 2017
 
 ## Development
@@ -14,21 +14,3 @@ $ npm i
 ```bash
 $ npm start
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
