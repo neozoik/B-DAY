@@ -10,7 +10,9 @@
 1. Sebastien Dery
 2. Peter Rothman
 3. Alex Gray
-4. 
+4. Microdosing journalists
+5. MIT Media Lab Alumni
+6. ..
 
 
 ## Development
