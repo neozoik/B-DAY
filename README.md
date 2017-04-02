@@ -1,5 +1,4 @@
 
-
 # HAPPY B-DAY
 19 april 2017
 
@@ -10,7 +9,6 @@
 4. Microdosing journalists
 5. MIT Media Lab Alumni
 6. ..
-
 
 ## Development
 
@@ -26,4 +24,3 @@ $ npm i
 $ npm start
 ```
 # the end
-
