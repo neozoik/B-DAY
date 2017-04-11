@@ -3,7 +3,6 @@
 # HAPPY BICYCLE DAY
 19 april 2017
 
-
 # communication
 1. Sebastien Dery
 2. Peter Rothman
@@ -11,7 +10,6 @@
 4. Microdosing journalists
 5. MIT Media Lab Alumni
 6. ..
-
 
 ## Development
 
